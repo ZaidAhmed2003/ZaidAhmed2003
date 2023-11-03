@@ -32,8 +32,8 @@
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="adobe photoshop" width="40" height="40"/></a>
-<a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="adobe photoshop" width="40" height="40"/></a>
+<a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="adobe photoshop" width="40" height="40"/></a>
+<a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="adobe photoshop" width="40" height="40"/></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaidahmed2003&show_icons=true&locale=en&layout=compact" alt="zaidahmed2003" /></p>
 
