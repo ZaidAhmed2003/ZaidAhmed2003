@@ -45,8 +45,7 @@
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="adobe photoshop" width="40" height="40"/></a>
 </P>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaidahmed2003&show_icons=true&locale=en&layout=compact" alt="zaidahmed2003" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaidahmed2003&show_icons=true&locale=en&layout=compact" alt="zaidahmed2003" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidahmed2003&" alt="zaidahmed2003" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidahmed2003&" alt="zaidahmed2003" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaidahmed2003&show_icons=true&locale=en" alt="zaidahmed2003" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaidahmed2003&show_icons=true&locale=en" alt="zaidahmed2003" /></p>
