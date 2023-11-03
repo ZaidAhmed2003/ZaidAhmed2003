@@ -36,8 +36,14 @@
 <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="adobe photoshop" width="40" height="40"/></a>
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="adobe photoshop" width="40" height="40"/></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaidahmed2003&show_icons=true&locale=en&layout=compact" alt="zaidahmed2003" /></p>
+<br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaidahmed2003&show_icons=true&locale=en&layout=compact" alt="zaidahmed2003" /></p>
+
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaidahmed2003&show_icons=true&locale=en" alt="zaidahmed2003" /></p>
+
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidahmed2003&" alt="zaidahmed2003" /></p>
