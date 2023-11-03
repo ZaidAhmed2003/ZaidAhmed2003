@@ -3,7 +3,15 @@
 <h4 align="center">Future Software Engineer</h4>
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zaidahmed2003&label=Profile%20views&color=0e75b6&style=flat](https://avatars.githubusercontent.com/u/97093037?s=400&u=dd1ba768695f8f90003f2b0b9249e11ff582fceb&v=4" alt="zaidahmed2003" /> </p>
+<p align="center">
+
+![](https://img.shields.io/github/contributors/ZaidAhmed2003/zaidahmed2003?style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=zaidahmed2003&style=for-the-badge)
+![](https://img.shields.io/github/commit-activity/t/zaidahmed2003/zaidahmed2003?style=for-the-badge)
+![](https://img.shields.io/github/followers/zaidahmed2003?style=for-the-badge)
+
+</p>
+
 <br>
 
 **A computer enthusiast who loves to immerse myself in the ever-evolving realm of technology. Whether it's Gaming, programming, delving into the mysteries of AI, or building robots, I find endless joy in the world of bits and bytes.**
