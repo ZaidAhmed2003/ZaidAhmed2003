@@ -4,8 +4,8 @@
 <br>
 
 <p align="center">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ZaidAhmed2003/zaidahmed2003?style=for-the-badge&color=blue">
 <img alt="Profile Count" src="https://komarev.com/ghpvc/?username=zaidahmed2003&style=for-the-badge">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ZaidAhmed2003/zaidahmed2003?style=for-the-badge&color=blue">
 <img alt="Commit Activity" src="https://img.shields.io/github/commit-activity/t/zaidahmed2003/zaidahmed2003?style=for-the-badge">
 <img alt="Followers" src="https://img.shields.io/github/followers/zaidahmed2003?style=for-the-badge">
 </p>
