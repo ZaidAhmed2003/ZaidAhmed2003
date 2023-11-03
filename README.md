@@ -1,10 +1,23 @@
 <h1 align="center">Hi 👋, I'm Zaid Ahmed</h1>
 <h3 align="center">A Passionate Front-End Developer from Pakistan</h3>
+<h4 align="center">Future Software Engineer</h4>
 <br>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zaidahmed2003&label=Profile%20views&color=0e75b6&style=flat](https://avatars.githubusercontent.com/u/97093037?s=400&u=dd1ba768695f8f90003f2b0b9249e11ff582fceb&v=4" alt="zaidahmed2003" /> </p>
 <br>
 
-- 🌱 I’m currently learning **React**
+<p align="center">A computer enthusiast who loves to immerse myself in the ever-evolving realm of technology. Whether it's gaming, programming, delving into the mysteries of AI, or building robots, I find endless joy in the world of bits and bytes. </p>
+<br>
+
+- 👋 Aspiring Software Engineer | HTML, CSS, JS Enthusiast
+
+- 🚀 Pursuing a Software Engineering diploma at Aptech.
+
+- 💡 Proficient in HTML, CSS, Boostrap, Jquery, and Javascript.
+
+- 🌱 Currently diving into the world of React.
+
+- 🌐 Exploring the endless possibilities of web development.
 
 - 📫 How to reach me **zaidahmed3245@gmail.com**
 
