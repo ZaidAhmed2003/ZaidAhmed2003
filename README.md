@@ -8,8 +8,6 @@
 
 **A computer enthusiast who loves to immerse myself in the ever-evolving realm of technology. Whether it's Gaming, programming, delving into the mysteries of AI, or building robots, I find endless joy in the world of bits and bytes.**
 
-<br>
-
 - 👋 Aspiring Software Engineer | **HTML**, **CSS**, **JS** Enthusiast
 
 - 🚀 Pursuing a Software Engineering diploma at **Aptech Pakistan**.
