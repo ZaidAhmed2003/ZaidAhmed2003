@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zaid Ahmed</h1>
-<h3 align="center">A passionate Front-End Developer from Pakistan</h3>
+<h3 align="center">A Passionate Front-End Developer from Pakistan</h3>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zaidahmed2003&label=Profile%20views&color=0e75b6&style=flat](https://avatars.githubusercontent.com/u/97093037?s=400&u=dd1ba768695f8f90003f2b0b9249e11ff582fceb&v=4" alt="zaidahmed2003" /> </p>
 <br>
 
-- 🌱 I’m currently learning **XML** and **React**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **zaidahmed3245@gmail.com**
 
@@ -43,16 +43,10 @@
 <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="adobe photoshop" width="40" height="40"/></a>
 <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="adobe photoshop" width="40" height="40"/></a>
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="adobe photoshop" width="40" height="40"/></a>
-
 </P>
-<br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaidahmed2003&show_icons=true&locale=en&layout=compact" alt="zaidahmed2003" /></p>
 
-<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidahmed2003&" alt="zaidahmed2003" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaidahmed2003&show_icons=true&locale=en" alt="zaidahmed2003" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidahmed2003&" alt="zaidahmed2003" /></p>
