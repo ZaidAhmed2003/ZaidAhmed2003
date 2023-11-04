@@ -19,7 +19,7 @@
 
 - 💡 Proficient in **HTML**, **CSS**, **Boostrap**, **Jquery**, and **Javascript**.
 
-- 🌱 Currently diving into the world of **React**.
+- 🌱 Currently diving into the world of **React** and **Mongodb** And **XMl**
 
 - 🌐 Exploring the endless possibilities of **Web Development** And **App Development**.
 
