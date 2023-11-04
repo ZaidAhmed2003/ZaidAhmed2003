@@ -13,9 +13,9 @@
 <br>
 **A computer enthusiast who loves to immerse myself in the ever-evolving realm of technology. Whether it's Gaming, programming, delving into the mysteries of AI, or building robots, I find endless joy in the world of bits and bytes.**
 
-- 👋 Aspiring Software Engineer | **HTML**, **CSS**, **JS** Enthusiast
+<br>
 
-- 🚀 Pursuing a Software Engineering diploma at **Aptech Pakistan**.
+- 🚀 Pursuing a Software Engineering Diploma at **Aptech Pakistan**.
 
 - 💡 Proficient in **HTML**, **CSS**, **Boostrap**, **Jquery**, and **Javascript**.
 
