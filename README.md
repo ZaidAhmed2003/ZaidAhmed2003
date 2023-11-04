@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/zaidahmed2345/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/zaidahmed2345/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zaidahmed2345/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/zaidahmed2345/" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages And Frameworks</h3>
