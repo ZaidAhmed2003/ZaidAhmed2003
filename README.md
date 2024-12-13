@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaid Ahmed</h1>
-<h3 align="center">A Passionate Front-End Developer from Pakistan</h3>
+<h3 align="center">Full Stack Developer from Pakistan</h3>
 <h4 align="center">Future Software Engineer</h4>
 <br>
 
