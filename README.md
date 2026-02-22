@@ -8,12 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=zaidahmed2003&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="zaidahmed2003" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/zaidahmed2003">
     <img src="https://komarev.com/ghpvc/?username=zaidahmed2003&label=Profile%20views&color=0e75b6&style=flat-square" alt="zaidahmed2003" />
   </a>
