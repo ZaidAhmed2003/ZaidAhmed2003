@@ -59,12 +59,14 @@ I'm a developer from Pakistan 🇵🇰 who recently completed my **ADSE (Advance
 
 ![](https://skillicons.dev/icons?i=python,tensorflow,pytorch)
 
+<div align="center">
 <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=000" />
 <img src="https://img.shields.io/badge/GitHub%20Copilot-white?style=for-the-badge&logo=githubcopilot&logoColor=black" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<div>
 
 **Design & DevOps**
 
@@ -80,14 +82,6 @@ I'm a developer from Pakistan 🇵🇰 who recently completed my **ADSE (Advance
 | 🌐 **Full Stack Web Apps** | End-to-end web apps using MERN, PHP/Laravel, or ASP.NET Core |
 | 📱 **Cross-Platform Apps** | Mobile apps built with Flutter for Android & iOS |
 | 📊 **Data Analysis** | Data cleaning, analysis, and dashboards |
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zaidahmed2003&theme=algolia&no-frame=true&row=1&column=7" />
-</p>
 
 <br>
 
