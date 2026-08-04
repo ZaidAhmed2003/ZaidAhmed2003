@@ -59,7 +59,7 @@ I'm a developer from Pakistan 🇵🇰 who recently completed my **ADSE (Advance
 
 ![](https://skillicons.dev/icons?i=python,tensorflow,pytorch)
 
-<div align="center">
+<div display-"flex">
 <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=000" />
 <img src="https://img.shields.io/badge/GitHub%20Copilot-white?style=for-the-badge&logo=githubcopilot&logoColor=black" />
