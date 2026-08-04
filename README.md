@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5FA&height=180&section=header&text=Zaid%20Ahmed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Automation%20%26%20Full%20Stack%20Developer&descAlignY=62&descSize=18" width="100%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5FA&height=200&section=header&text=Hi%20There,%20I'm%20Zaid%20Ahmed%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<h3 align="center">🚀 AI Automation & Full Stack Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+AI+Automations+%26+AI+Agents;Full+Stack+Web+%26+Mobile+Developer;Freelance+Developer+%7C+Open+to+Work" alt="Typing SVG" />
@@ -29,13 +28,13 @@ I'm a developer from Pakistan 🇵🇰 who recently completed my **ADSE (Advance
 <summary><b>💼 Job Profiles I Target</b> (click to expand)</summary>
 <br>
 
-| | |
-|---|---|
-| 🤖 | AI Automation & AI Agents Developer |
-| 🌐 | Responsive Web Developer |
-| 🧩 | Full Stack Developer (MERN / PHP / ASP.NET Core) |
-| 📊 | Data Analyst |
-| 📱 | Cross-Platform App Developer |
+|     |                                                  |
+| --- | ------------------------------------------------ |
+| 🤖  | AI Automation & AI Agents Developer              |
+| 🌐  | Responsive Web Developer                         |
+| 🧩  | Full Stack Developer (MERN / PHP / ASP.NET Core) |
+| 📊  | Data Analyst                                     |
+| 📱  | Cross-Platform App Developer                     |
 
 </details>
 
@@ -68,6 +67,8 @@ I'm a developer from Pakistan 🇵🇰 who recently completed my **ADSE (Advance
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <div>
 
+<br>
+
 **Design & DevOps**
 
 ![](https://skillicons.dev/icons?i=figma,ps,ai,blender,git,github,postman)
@@ -76,12 +77,12 @@ I'm a developer from Pakistan 🇵🇰 who recently completed my **ADSE (Advance
 
 ## 🚀 What I Can Build For You
 
-| Service | Description |
-|---|---|
+| Service                       | Description                                                                                              |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------- |
 | 🤖 **AI Agents & Automation** | Custom AI agents, workflow automation, and LLM-powered integrations (LangChain, n8n, OpenAI/Gemini APIs) |
-| 🌐 **Full Stack Web Apps** | End-to-end web apps using MERN, PHP/Laravel, or ASP.NET Core |
-| 📱 **Cross-Platform Apps** | Mobile apps built with Flutter for Android & iOS |
-| 📊 **Data Analysis** | Data cleaning, analysis, and dashboards |
+| 🌐 **Full Stack Web Apps**    | End-to-end web apps using MERN, PHP/Laravel, or ASP.NET Core                                             |
+| 📱 **Cross-Platform Apps**    | Mobile apps built with Flutter for Android & iOS                                                         |
+| 📊 **Data Analysis**          | Data cleaning, analysis, and dashboards                                                                  |
 
 <br>
 
