@@ -77,12 +77,12 @@ I'm a developer from Pakistan 🇵🇰 who recently completed my **ADSE (Advance
 
 ## 🚀 What I Can Build For You
 
-| Service                       | Description                                                                                              |
-| ----------------------------- | -------------------------------------------------------------------------------------------------------- |
-| 🤖 **AI Agents & Automation** | Custom AI agents, workflow automation, and LLM-powered integrations (LangChain, n8n, OpenAI/Gemini APIs) |
-| 🌐 **Full Stack Web Apps**    | End-to-end web apps using MERN, PHP/Laravel, or ASP.NET Core                                             |
-| 📱 **Cross-Platform Apps**    | Mobile apps built with Flutter for Android & iOS                                                         |
-| 📊 **Data Analysis**          | Data cleaning, analysis, and dashboards                                                                  |
+| Service | Description |
+|---|---|
+| 🤖 **AI Agents & Automation** | Custom AI agents, AI voice/call agents for lead generation & customer support, chatbot automation, workflow automation (n8n), and LLM-powered integrations (LangChain, OpenAI/Gemini APIs) |
+| 🌐 **Full Stack Web Apps** | End-to-end web apps using MERN, PHP/Laravel, or ASP.NET Core |
+| 📱 **Cross-Platform Apps** | Mobile apps built with Flutter for Android & iOS |
+| 📊 **Data Analysis** | Data cleaning, analysis, and dashboards |                                                                |
 
 <br>
 
