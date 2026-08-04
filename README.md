@@ -1,103 +1,102 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5FA&height=180&section=header&text=Zaid%20Ahmed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Automation%20%26%20Full%20Stack%20Developer&descAlignY=62&descSize=18" width="100%"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5FA&height=200&section=header&text=Hi%20There,%20I'm%20Zaid%20Ahmed%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+AI+Automations+%26+AI+Agents;Full+Stack+Web+%26+Mobile+Developer;Freelance+Developer+%7C+Open+to+Work" alt="Typing SVG" />
+</p>
 
-<h3>🚀 AI Automation & Full Stack Developer from Pakistan 🇵🇰</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;AI+Automation+%26+AI+Agents+Developer;AI+%26+ML+Developer;Cross-Platform+App+Developer;ASP+.NET+Core+Developer;Data+Analyst;MERN+Stack+Developer;Freelance+Developer" alt="Typing SVG" />
+<p align="center">
+  <a href="https://linkedin.com/in/zaidahmed2345" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/zaidahmed2003" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Available%20for%20Freelance-2ea44f?style=for-the-badge&logo=upwork&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=zaidahmed2003&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 <br>
 
-<a href="https://linkedin.com/in/zaidahmed2345" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/zaidahmed2003" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=zaidahmed2003&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+## 👋 About Me
 
-</div>
+I'm a developer from Pakistan 🇵🇰 who recently completed my **ADSE (Advance Diploma in Software Engineering)**. These days I'm deep into **AI automation and AI agents** — building systems that connect LLMs to real workflows — alongside full stack web and mobile development. I'm currently **freelancing** and open to new projects and collaborations.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:6DD5FA&height=3" width="100%"/>
-
-## 👨‍💻 About Me
-
-```yaml
-🎓 Education: Completed ADSE (Advance Diploma in Software Engineering)
-💼 Freelance: Available for freelance projects — open to work!
-🔭 Focus Now: AI Automation, AI Agents & Full Stack Web/Mobile Development
-🧠 Exploring: Latest Web Technologies & AI Tools
-🤝 Open To: Open Source Collaborations & Innovative Projects
-💬 Ask Me About: React, Node.js, Angular, Flutter, AI Integration & Automation
-```
+- 🔭 Currently building AI automations, AI agents, and full stack apps
+- 🌱 Always learning new AI tools and frameworks (LangChain, n8n, RAG pipelines)
+- 💼 Freelancing — available for hire on web, mobile, and AI automation projects
+- 🤝 Open to open-source collaboration and interesting problems
+- 💬 Ask me about React, Node.js, Angular, Flutter, or AI integration
 
 <details>
-<summary>💼 <b>Job Profiles I Target</b> (click to expand)</summary>
+<summary><b>💼 Job Profiles I Target</b> (click to expand)</summary>
 <br>
 
-- 🤖 AI Automation & AI Agents Developer
-- 🌐 Responsive Web Developer
-- 🧩 Full Stack Developer (MERN / PHP / ASP.NET Core)
-- 📊 Data Analyst
-- 📱 Cross-Platform App Developer
+| | |
+|---|---|
+| 🤖 | AI Automation & AI Agents Developer |
+| 🌐 | Responsive Web Developer |
+| 🧩 | Full Stack Developer (MERN / PHP / ASP.NET Core) |
+| 📊 | Data Analyst |
+| 📱 | Cross-Platform App Developer |
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:6DD5FA&height=3" width="100%"/>
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-**🌐 Frontend**
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,vue,tailwind,sass" />
 
-<br><br>
+## 🧰 Tech Stack
 
-**💻 Backend & Database**
+**Frontend**
+
+![](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,vue,tailwind,sass)
+
+**Backend & Databases**
+
+![](https://skillicons.dev/icons?i=nodejs,express,php,laravel,cs,dotnet,mongodb,mysql,firebase)
+
+**Mobile & Others**
+
+![](https://skillicons.dev/icons?i=androidstudio,flutter,dart,c,arduino,electron)
+
+**AI & Machine Learning**
+
+![](https://skillicons.dev/icons?i=python,tensorflow,pytorch)
+
+<img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=000" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-white?style=for-the-badge&logo=githubcopilot&logoColor=black" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+
+**Design & DevOps**
+
+![](https://skillicons.dev/icons?i=figma,ps,ai,blender,git,github,postman)
+
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,cs,dotnet,mongodb,mysql,firebase" />
 
-<br><br>
+## 🚀 What I Can Build For You
 
-**📱 Mobile & Others**
+| Service | Description |
+|---|---|
+| 🤖 **AI Agents & Automation** | Custom AI agents, workflow automation, and LLM-powered integrations (LangChain, n8n, OpenAI/Gemini APIs) |
+| 🌐 **Full Stack Web Apps** | End-to-end web apps using MERN, PHP/Laravel, or ASP.NET Core |
+| 📱 **Cross-Platform Apps** | Mobile apps built with Flutter for Android & iOS |
+| 📊 **Data Analysis** | Data cleaning, analysis, and dashboards |
+
 <br>
-<img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,c,arduino,electron" />
 
-<br><br>
+## 🏆 GitHub Trophies
 
-**🤖 AI & Machine Learning**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zaidahmed2003&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
+
 <br>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-<br><br>
-<img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/GitHub%20Copilot-white?style=for-the-badge&logo=githubcopilot&logoColor=black" alt="Copilot" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
 
-<br><br>
+## 📫 Let's Work Together
 
-**🎨 Design & DevOps**
-<br>
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,git,github,postman" />
+I'm open to freelance projects, collaborations, and full-time opportunities. Reach out and let's build something.
 
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/zaidahmed2345" target="_blank"><img src="https://img.shields.io/badge/Message%20me%20on%20LinkedIn-0E75B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:6DD5FA&height=3" width="100%"/>
-
-<div align="center">
-
-### 📫 Let's Connect
-
-<a href="https://linkedin.com/in/zaidahmed2345" target="_blank">
-<img src="https://img.shields.io/badge/Connect%20with%20me-0E75B6?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:0E75B6&height=100&section=footer" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:0E75B6&height=120&section=footer" width="100%"/>
